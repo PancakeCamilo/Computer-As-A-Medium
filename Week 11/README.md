@@ -7,5 +7,5 @@
 #
 
 ### Adrian Acosta-Cotto was tasked with completing TASK 1: Making a health pack.
-### I, Camilo Casallas, was tasked with completing TASK 2: Making a trap.
+### Camilo Casallas (me) was tasked with completing TASK 2: Making a trap.
 ### John Nicholson was tasked with completing TASK 3: Making a key.
