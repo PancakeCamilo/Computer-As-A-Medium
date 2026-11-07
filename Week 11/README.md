@@ -2,7 +2,9 @@
 
 ### My name is Camilo Casallas.
 ### I am on a team with Adrian Acosta-Cotto and John Nicholson.
-## Our name tame is Coding Reigns.
+### Our name tame is Coding Reigns.
+
+#
 
 ### Adrian Acosta-Cotto was tasked with completing TASK 1: Making a health pack.
 ### I, Camilo Casallas, was tasked with completing TASK 2: Making a trap.
