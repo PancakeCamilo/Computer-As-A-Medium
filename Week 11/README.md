@@ -1,7 +1,9 @@
 # Week 11
 
 ### My name is Camilo Casallas.
-### I am on a team with John Nicholson and Adrian Acosta-Cotto.
+### I am on a team with Adrian Acosta-Cotto and John Nicholson.
 ### Our name tame is Coding Reigns.
 
-### I was tasked with completing TASK 2: Making a trap.
+### Adrian Acosta-Cotto was tasked with completing TASK 1: Making a health pack.
+### I, Camilo Casallas, was tasked with completing TASK 2: Making a trap.
+### John Nicholson was tasked with completing TASK 3: Making a key.
