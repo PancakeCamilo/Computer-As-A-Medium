@@ -12,6 +12,6 @@
 
 #
 
-### TASK 1 Video: n/a
+### TASK 1 Video: https://youtu.be/fDappU-aBwc
 ### TASK 2 Video: https://youtu.be/LDKQNRnvuvk
-### TASK 3 Video: n/aasdada
+### TASK 3 Video: https://youtu.be/2hrKRNrgbj0
